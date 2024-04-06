@@ -1,6 +1,6 @@
-torch==1.10.0
-gradio==2.3.6
-opencv-python==4.5.5.62
-numpy==1.21.5
-mtcnn==0.1.1
-efficientnet-pytorch==0.7.1
+torch
+gradio
+opencv-python
+numpy
+mtcnn
+efficientnet-pytorch
